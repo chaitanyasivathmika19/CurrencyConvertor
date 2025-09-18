@@ -17,13 +17,16 @@ It allows users to convert between multiple currencies in real-time using the **
 ---
 
 ## 📂 Project Structure
-/ (root)
-│── index.html     # Main HTML structure
-│── style.css      # Styling (light & dark mode support)
-│── app.js         # Core logic for fetching exchange rates
-│── codes.js       # Currency codes and mapping with flags
-│── README.md      # Documentation
-│── .gitignore     # Git ignored files
+
+    ```bash
+    / (root)
+    │── index.html     # Main HTML structure
+    │── style.css      # Styling (light & dark mode support)
+    │── app.js         # Core logic for fetching exchange rates
+    │── codes.js       # Currency codes and mapping with flags
+    │── README.md      # Documentation
+    │── .gitignore     # Git ignored files
+
 
 
 ---
